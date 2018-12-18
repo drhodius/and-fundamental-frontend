@@ -1,5 +1,5 @@
 {
-  "name": "fundamental-frontend",
+  "name": "and-fundamental-frontend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fakesamgregory/fundamental-frontend.git"
+    "url": "git+https://github.com/and-digital/and-fundamental-frontend.git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/fakesamgregory/fundamental-frontend/issues"
-  },
-  "homepage": "https://github.com/fakesamgregory/fundamental-frontend#readme",
+  "homepage": "https://github.com/and-digital/and-fundamental-frontend#readme",
   "dependencies": {
     "browser-sync": "^2.24.4",
     "install": "^0.12.1",
